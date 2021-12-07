@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">RickAndMorty</string>
-    <string name="character_image_description">An image of the character</string>
-    <string name="character_information_format">%1$s - %2$s</string>
-</resources>
